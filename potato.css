@@ -128,3 +128,17 @@ nav {
     background: #F8B7A3;
 
 }
+
+ul {
+    font-family: "Spartan", "Open Serif", sans-serif;
+    padding-left: 20%;
+    font-size: medium;
+    color: #9D4E38;
+}
+
+ol {
+    font-family: "Spartan", "Open Serif", sans-serif;
+    padding-left: 20%;
+    font-size: medium;
+    color: #9D4E38;
+}
