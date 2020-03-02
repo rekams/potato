@@ -1,1 +1,130 @@
+* {
+    background-color: #FECCA5;
+}
 
+/*turned the default headings into three pairs where both heading has the same size/font, but different colour. 
+sizes are given relative to user's chosen font size, so they should adapt well to phones, etc */
+
+h1 {
+    text-align: center;
+    font-family: 'Spartan', 'Open Serif', sans-serif;
+    font-size: xx-large;
+    color: #9D4E38;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Spartan', 'Open Serif', sans-serif;
+    font-size: xx-large;
+    color: #A85A65;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Open Serif', sans-serif;
+    font-size: x-large;
+    color: #9D4E38;
+}
+
+h4 {
+    text-align: center;
+    font-family: 'Open Serif', sans-serif;
+    font-size: x-large;
+    color: #A85A65;
+}
+
+h5 {
+    text-align: center;
+    font-family: 'Open Serif', sans-serif;
+    font-size: large;
+    color: #9D4E38;
+}
+
+h6 {
+    text-align: center;
+    font-family: 'Open Serif', sans-serif;
+    font-size: large;
+    color: #A85A65;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: medium;
+    color: #9D4E38;
+    text-align: justify;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+/*all the bits to make the footer look (kinda) right*/
+
+footer {
+    font-family: 'Spartan', 'Open Serif', sans-serif;
+    background-color: #F8B7A3;
+    color: #A85A65;
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+
+.footul {
+    list-style-type: none;
+    background: #F8B7A3;
+}
+
+.footli {
+    float: right;
+    margin-left: 60px;
+    background: #F8B7A3;
+}
+  
+.footlink {
+    background: #F8B7A3;
+
+}
+
+/*all the stuff related to links*/
+
+a:link {
+    color: #A85A65;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #A85A65;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #E4A260;
+    text-decoration: none;
+}
+
+a:active {
+    color: #E4A260;
+    text-decoration: none;
+}
+
+/*the bit below is all about making the nav bar look right, as it uses lists.*/
+
+nav {
+    background-color: #F8B7A3;
+    font-family: 'Open Sans', sans-serif;
+    color: #A85A65;
+    height: 25px;
+    font-size: large;  
+}
+
+.navul {
+    list-style-type: none;
+}
+
+.navli {
+    float: left;
+    margin-left: 30px;
+}
+  
+.navlink {
+    background: #F8B7A3;
+
+}
