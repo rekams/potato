@@ -142,3 +142,44 @@ ol {
     font-size: medium;
     color: #9D4E38;
 }
+#submit{
+    color: #F8B7A3;
+    border: 0px;
+    background: #9D4E38;
+    border-radius: 5px;
+    border-style: solid;
+    
+    
+}
+#Name{
+    color:#9D4E38;
+    background-color: #F8B7A3;
+    border-style: solid;
+    
+    
+    
+    
+}
+#email{
+    color:#9D4E38;
+    background-color: #F8B7A3;
+    border-style: solid;
+    border-top:none;
+    border-bottom: none;
+    
+    
+    
+    
+    
+}
+#fact{
+    color:#9D4E38;
+    background-color: #F8B7A3;
+    border-style: solid;
+    
+}
+
+
+.input{
+    display: flex;
+    justify-content: center;
