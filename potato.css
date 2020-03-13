@@ -183,3 +183,20 @@ ol {
 .input{
     display: flex;
     justify-content: center;
+    
+    .imagerecipie1{
+    position: relative;
+    bottom: 20px;
+    left:300px;
+
+}
+.imagerecipie2{
+    position: relative;
+    bottom:20px;
+    left: 480px;
+}
+.imagefunfacts{
+    position: relative;
+    left: 500px;
+}
+
