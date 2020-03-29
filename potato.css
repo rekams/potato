@@ -183,8 +183,9 @@ ol {
 .input{
     display: flex;
     justify-content: center;
+}
     
-    .imagerecipie1{
+  .imagerecipie1{
     position: relative;
     bottom: 20px;
     left:300px;
