@@ -16,8 +16,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
     var header3=document.getElementById("fact");
-    header3.addEventListener("background", function(event){
-        event.target.style.color="white";
+    header3.addEventListener("click", function(event){
+        event.target.style.background="white";
     })
 
     var submit=document.getElementById("submit");
